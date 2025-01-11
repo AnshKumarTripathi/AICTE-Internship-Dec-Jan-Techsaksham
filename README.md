@@ -1,5 +1,7 @@
 # Human Pose Estimation Web App
-
+   ```sh
+   Note: I havent included the whole dataset as it was too large for me to upload.
+   ```
 This repository contains the code for a web-based application that performs human pose estimation on uploaded images using machine learning techniques, specifically leveraging the OpenPose model with OpenCV in a Streamlit environment.
 
 ## Table of Contents
