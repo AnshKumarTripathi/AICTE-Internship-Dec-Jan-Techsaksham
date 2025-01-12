@@ -86,15 +86,19 @@ Follow these steps to set up and run the application locally:
 
 ## Project Structure
 ```
-human-pose-estimation-web-app/
+requirements.txt
+README.md
+AICTE/
+├── Human-pose.ipynb
+AICTE-2/
 ├── models/
 │   └── pose/
 │       └── coco/
 │           ├── pose_deploy_linevec.prototxt
 │           └── pose_iter_440000.caffemodel
 ├── app.py
-├── requirements.txt
-└── README.md
+├── take-1.ipynb
+
 ```
 
 ## Contributing
